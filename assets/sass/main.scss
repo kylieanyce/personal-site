@@ -1832,7 +1832,7 @@
 
 	#footer {
 		@include padding(6em, 0);
-		background-color: darken(_palette(bg), 8);
+		background-color: #2A4650;
 		text-align: center;
 
 		.icons {
@@ -1908,7 +1908,7 @@
 		}
 
 		#footer {
-			background-color: darken(transparentize(_palette(bg), 0.1), 8);
+			background-color: darken(transparentize(_palette(#2A4650), 0.1), 8);
 		}
 	}
 
