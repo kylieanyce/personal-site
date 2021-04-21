@@ -2021,6 +2021,7 @@ input, select, textarea {
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
+		font-family: 'Open Sans', sans-serif;
 	}
 
 		.icon:before {
@@ -2613,7 +2614,7 @@ input, select, textarea {
 				display: block;
 				color: #8FA937;
 				position: absolute;
-				/* left: 1.75em; */
+				left: .45em;
 				bottom: 0.35em;
 				font-size: 4.5em;
 			}
