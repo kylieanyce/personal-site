@@ -2310,6 +2310,8 @@ input, select, textarea {
 		cursor: default;
 		list-style: none;
 		padding-left: 0;
+		padding-bottom: 1em;
+		margin: auto;
 	}
 
 		ul.icons li {
@@ -3783,7 +3785,18 @@ input, select, textarea {
 		opacity: 1;
 	}
 
+
 /* CTA */
+
+.ctaTitle {
+	display: flex;
+	justify-content: center;
+}
+
+.ctaItem {
+	display: flex;
+	justify-content: center;
+}
 
 	#cta .inner {
 		display: -moz-flex;
@@ -3804,6 +3817,8 @@ input, select, textarea {
 
 			#cta .inner header p {
 				color: inherit;
+				text-align: center;
+
 			}
 
 		#cta .inner .actions {
