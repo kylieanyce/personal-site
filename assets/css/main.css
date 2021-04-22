@@ -2670,6 +2670,14 @@ input, select, textarea {
 
 /* Spotlight */
 
+.projectTitle {
+	text-decoration: none;
+}
+
+.projectTitle:hover {
+	transform: scale(1);
+}
+
 	.spotlight {
 		-moz-align-items: center;
 		-webkit-align-items: center;
