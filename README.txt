@@ -1,3 +1,18 @@
+Hi! I'm Kylie :) 
+
+This is a personal portfolio application that I made using a HTML5 UP template.
+
+You can use this site to see my technical skills, projects, and to contact me. 
+
+Thanks for viewing!
+
+---------------------------------------------------------------------------------
+
+
+
+
+
+
 Spectral by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
